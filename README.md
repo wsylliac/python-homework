@@ -72,6 +72,6 @@ In addition, your final script should both print the analysis to the terminal an
 * Write one script for each of the provided datasets. Run each script separately to make sure that the code works for its respective dataset.
 * Always commit your work and back it up with pushes to GitHub or GitLab. You don't want to lose hours of your hard work! Also make sure that your repo has a detailed ![Screenshot 2023-10-12 at 6 59 30 PM](https://github.com/wsylliac/python-homework/assets/140991773/f58ae876-9c6f-475a-81fc-30f273528f2f) file.
 
-###Note 
+### Note 
 
 Please note that I was having trouble running the code for the pypool challenge as I kept getting an error message that the file was not found. With the help of Alicia, I was able to make sure the code worked and copied the one she suppplied on slack to ensure the file was found and the code ran. 
