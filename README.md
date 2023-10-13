@@ -4,7 +4,7 @@
 
 ### Background
 
-It's time to put away the Excel sheet and enter the world of programming with Python. In this assignment, you'll use the concepts you've learned to complete **two Python challenges, PyBank and PyPoll. Both tasks present a real-world situation where your newly developed Python scripting skills come in handy.
+It's time to put away the Excel sheet and enter the world of programming with Python. In this assignment, you'll use the concepts you've learned to complete **two** Python challenges, PyBank and PyPoll. Both tasks present a real-world situation where your newly developed Python scripting skills come in handy.
 
 ### Before You Begin
 
@@ -74,4 +74,4 @@ In addition, your final script should both print the analysis to the terminal an
 
 ### Note 
 
-Please note that I was having trouble running the code for the pypool challenge as I kept getting an error message that the file was not found. With the help of Alicia, I was able to make sure the code worked and copied the one she suppplied on slack to ensure the file was found and the code ran. 
+Please note that I was having trouble running the code for the pypoll challenge as I kept getting an error message that the file was not found. With the help of Alicia, I was able to make sure the code worked and copied the one she suppplied on slack to ensure the file was found and the code ran. 
